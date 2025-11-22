@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/590114695.svg)](https://doi.org/10.5281/zenodo.7665032)
+
 detect_spots.py: Custom Python code for contrasting spot detection.
 
 # In the folder code:
